@@ -1,0 +1,37 @@
+torch>=2.3.1
+numpy==1.25.2
+gradio
+huggingface-hub
+
+# Llama Index и связанные библиотеки
+llama_index==0.10.46
+llama-hub-youtube-transcript
+llama-index-llms-huggingface==0.2.3
+llama-index-embeddings-huggingface==0.2.2
+llama-index-embeddings-langchain==0.1.2
+llama-index-readers-youtube-transcript
+
+# Hugging Face Transformers и связанные компоненты
+transformers>=4.42.0
+sentencepiece==0.1.99
+bitsandbytes==0.43.1
+peft==0.11.1
+accelerate==0.31.0
+tokenizers==0.19.1
+
+# LangChain и его зависимости
+langchain==0.2.5
+langchain_community==0.2.5
+langchain-huggingface==0.0.3
+
+# Другие библиотеки для обработки данных и запросов
+pypdf==4.2.0
+pyvis==0.3.2
+Ipython==7.34.0
+regex==2024.5.15
+packaging==24.1
+pyyaml==6.0.1
+requests==2.31.0
+tqdm==4.66.4
+filelock==3.14.0
+safetensors==0.4.3
