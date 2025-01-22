@@ -35,8 +35,8 @@
    <img src="https://avatars.githubusercontent.com/u/130722866?s=200&v=4" title="llamaindex" alt="llamaindex" width="60" height="60"/> 
  </a>
 
-<a href="https://www.wikipedia.org/" target="_blank" rel="noreferrer" style="display: inline-block;">
-   <img src="https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png" title="wikipedia" alt="wikipedia" width="60" height="60"/> 
+<a href="https://www.youtube.com" target="_blank" rel="noreferrer" style="display: inline-block;">
+   <img src="https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg" title="youtube" alt="youtube" width="60" height="60"/> 
  </a>
 </div>
 
